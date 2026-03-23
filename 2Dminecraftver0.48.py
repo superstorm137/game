@@ -1,4 +1,4 @@
-# paper minecraft ver. 0.45
+# paper minecraft ver. 0.48
 # by chatgpt and me
 # made in the beautiful land of amurica
 # play the damn game already
